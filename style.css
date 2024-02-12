@@ -28,6 +28,15 @@
 
 .card-title {
     text-shadow: 2px 2px 4px rgb(161, 136, 136);
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card-text {
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .card {
@@ -41,6 +50,7 @@
 .card-text {
     font-size: medium;
 }
+
 @media screen and (max-width:1002px) and (min-width:720px) {
     .card-title {
         font-size: 17px;
